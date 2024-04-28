@@ -1,5 +1,5 @@
-### Hi I'm **Adnan** 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=technoadnan)](https://github.com/technoadnan/github-readme-stats)
+<!-- ### Hi I'm **Adnan** 👋 -->
+<!--[![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=technoadnan](https://github-readme-stats.vercel.app/api?username=technoadnan&include_all_commits=True&rank_icon=github))](https://github.com/technoadnan/github-readme-stats) -->
 <!--
 **technoadnan/technoadnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
