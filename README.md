@@ -1,7 +1,7 @@
 <!-- ### Hi I'm **Adnan** 👋 -->
 <!--[![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=technoadnan](https://github-readme-stats.vercel.app/api?username=technoadnan&include_all_commits=True&rank_icon=github))](https://github.com/technoadnan/github-readme-stats) -->
 <p align="center">
-  <a href="">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=py,c,css,c,github,html,js,kali,linkedin,replit,stackoverflow,tensorflow,vscode" />
   </a>
 </p>
